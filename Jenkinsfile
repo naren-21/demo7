@@ -2,19 +2,19 @@ pipeline {
     agent any
 
     stages {
-        stage('fourth period') {
+        stage('cricket period') {
             steps {
-                echo 'science class ......'
+                echo '11 kids ......'
             }
         }
-        stage('fifth period') {
+        stage('chess') {
             steps {
-                echo 'activities class ......'
+                echo 'two kids ......'
             }
         }
-        stage('sixth period') {
+        stage('long bell') {
             steps {
-                echo 'lunch break ......'
+                echo 'over todaaa ......'
             }
         }
     }
